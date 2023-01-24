@@ -1,4 +1,4 @@
-# ProjetoUnicornio
+# Projeto Unicrnio
 Projeto educacional de empresas Unicórnio
 
 "Unicórnio" é um termo utilizado nas indústrias de capital de risco para descrver as startups que alcançaram um capital fechado superior a US$ 1 bilhão.
